@@ -4,50 +4,29 @@
     "basicinfo": {
         "name": "Test",
         "description": "岂能尽如人意，但求无愧我心",
-        "school": "五邑大学",
+        "school": "徐州经贸高等职业学校",
         "profession": "计算机科学与技术",
-        "sex": "男",
+        "sex": "女",
         "education" : "本科",
-        "workage": "2016届毕业",
-        "phone": "15088132354",
-        "email": "tonjayin@gmail.com"
+        "workage": "2019届毕业",
+        "phone": "15262011823",
+        "email": "2745074598@qq.com"
     },
     "social":[
         {
             "type": "github",
-            "link": "https://github.com/Jayin",
+            "link": "https://github.com/touko8ku",
             "icon": ""
-        },
-        {
-            "type": "weibo",
-            "link": "http://weibo.com/tjy273942569",
-            "icon": ""
-        },
-        {
-            "type": "linkedin",
-            "link": "https://www.linkedin.com/pub/jayin-ton/100/85a/161",
-            "icon": ""
-        },
-        {
-            "type": "twitter",
-            "link": "https://twitter.com/Jayin_Ton",
-            "icon": ""
-        },
+		},
         {
             "type": "home",
-            "link": "http://jayinton.com",
+            "link": "https://touko8ku.github.io",
             "icon": ""
         }
     ],
     "Awards": [
         {
-            "name": "五邑大学第十三/四届学术科技节之软件大赛一等奖(蝉联2年第一)"
-        },
-        {
-            "name": "第四届蓝桥杯全国软件专业人才设计与创业大赛C/C++本科B组广东赛区一等奖，全国决赛三等奖"
-        },
-        {
-            "name": "第六届全国大学生网络商务创新应用大赛全国总决赛主题赛单项一等奖"
+            "name": "徐州经贸高等职业学校第13届程序设计大赛一等奖"
         },
         {
             "name": "2013百度校园助手大赛优秀开发奖"
@@ -57,6 +36,7 @@
         }
     ],
     "socialExperiences": [
+		/*
         {
             "name": "加入袂卓移动开发工作室",
             "name_link": "meizhuo.org",
@@ -66,9 +46,10 @@
             "name": "组织3次校内开发者交流会",
             "name_link": "http://wuyiuniversity.github.io/",
             "description": "受Ruby China Conf启发，也地处三线城市IT氛围不浓厚，所以自行组织了3次交流会"
-        }
+        }*/
     ],
     "InternExperiences": [
+		/*
         {
             "name": "深圳三分线网络科技有限公司",
             "name_link": "",
@@ -86,43 +67,26 @@
             "description": "基于开源商城系统OpenCart二次开发一外贸商城",
             "time": "2014.07 - 2014.08",
             "location": "广东 江门"
-        }
+        }*/
     ],
     "ProjectExperience": [
+        
         {
-            "name": "ETips",
-            "name_link": "http://etips.github.io/",
-            "title": "Android App, 作者",
-            "icon": "",
-            "description": "五邑大学校园助手，2一键导入课程表/图书检索、收藏/及时获取校园资讯/查空课室/电费, 已为7+K同学服务",
-            "time": "2013.07 - 至今",
-            "location": ""
-        },
-        {
-            "name": "东莞技能培训中心",
+            "name": "徐州苒升信息科技有限公司",
             "name_link": "",
-            "title": "Android App/PHP后端, 项目负责人",
+            "title": "网站前端开发,移动APP 百度小程序 微信小程序项目开发，技术主要负责人",
             "icon": "",
-            "description": "主要负责PHP后端，采用ThinkPHP框架实现一个CMS、已经App广告管理后台；同时也负责Android端基础搭建",
-            "time": "2014.08 - 2014.12",
+            "description": "主要负责前端开发，采用jQuery框架实现前后端的交互；同时也负责移动APP的前端开发",
+            "time": "2019.05 - 2019.07",
             "location": ""
         },
         {
-            "name": "silentor",
+            "name": "myblog",
             "name_link": "https://github.com/Jayin/silentor",
             "title": "JavaScript, forker",
             "icon": "",
-            "description": "纯前端，基于markdown的博客",
-            "time": "2014.10 - 至今",
-            "location": ""
-        },
-        {
-            "name": "更多",
-            "name_link": "https://github.com/Jayin/jayin.github.io/blob/master/blog/p/projects/index.md",
-            "title": "",
-            "icon": "",
-            "description": "",
-            "time": "",
+            "description": "基于nodejs的博客",
+            "time": "2017.10 - 至今",
             "location": ""
         }
     ]
