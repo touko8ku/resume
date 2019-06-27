@@ -3,7 +3,7 @@
     "background_image": "https://9to5mac.files.wordpress.com/2014/08/yosemite-3.jpg?w=1200&h=&crop=1",
     "basicinfo": {
         "name": "Test",
-        "description": "岂能尽如人意，但求无愧我心",
+        "description": "programming is so funning!",
         "school": "徐州经贸高等职业学校",
         "profession": "计算机科学与技术",
         "sex": "女",
@@ -29,31 +29,13 @@
             "name": "徐州经贸高等职业学校第13届程序设计大赛一等奖"
         },
         {
-            "name": "2013百度校园助手大赛优秀开发奖"
+            "name": "2017.9月全国计算机二级c语言证书考试获优秀评级"
         },
-        {
-            "name": "2013华南资讯杯广东省Java程序员竞赛三等奖"
+	{
+            "name": "2018百度之星算法大赛3等奖"
         }
     ],
-    "socialExperiences": [
-        {
-            "name": "",
-            "name_link": "",
-            "description": ""
-        }
-    ],
-    "InternExperiences": [
-
-        {
-            "name": "",
-            "name_link": "",
-            "title": "",
-            "icon": "",
-            "description": "",
-            "time": "",
-            "location": ""
-        }
-    ],
+    
     "ProjectExperience": [
         
         {
